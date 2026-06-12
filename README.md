@@ -56,6 +56,9 @@ int main()
 }
 ```
 ## OUTPUT:
+<img width="432" height="196" alt="image" src="https://github.com/user-attachments/assets/adf4c084-7dbf-4d8b-ac2e-866f7e65ced8" />
+
+
 
 
 ## RESULT :
